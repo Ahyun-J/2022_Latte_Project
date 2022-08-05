@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/action_test_01"
+        android:title="테스트1"
+        android:icon="@drawable/ic_action_plus"/>
+
+    <item android:id="@+id/action_test_02"
+        android:title="테스트2"
+        android:icon="@drawable/ic_action_plus"/>
+
+    <item android:id="@+id/action_test_03"
+        android:title="테스트3"
+        android:icon="@drawable/ic_action_plus"/>
+
+</menu>
