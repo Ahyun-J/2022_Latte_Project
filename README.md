@@ -23,4 +23,6 @@
 |  | 위젯 설정 자료 탐색 |
 |  | 위젯 디자인 안드로이드 스튜디오로 설정하는 방법 탐색 |
 
-### 위젯
+### 위젯 
+<!-- 참고
+> https://developer.android.com/guide/topics/appwidgets?hl=ko -->
