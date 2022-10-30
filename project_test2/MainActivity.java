@@ -104,22 +104,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private double getRemainingDays(){
-
-//        try {
-//            SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
-//            Date date = dateFormat.parse(getDate());
-//
-//            long d1 = getYear() - date.getTime();
-//            long remain = d1/(1000*60*60*24);
-//            if(remain < 0) remain += 1;
-//
-//
-//
-//            return remain;
-//
-//        } catch (ParseException e) {
-//            return -2;
-//        }
         int  d1 = -2;
 
         if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.O) {
