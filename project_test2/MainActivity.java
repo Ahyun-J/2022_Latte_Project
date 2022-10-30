@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
 //            i++;
 //            if(i>1000000) break;
 //        }
-
+ 
 
         // 현재 날짜 일 수 / 365 (년도 총 일 수) * 100
         double testLoading = ((getRemainingDays() /  getYear())*100);
