@@ -44,7 +44,6 @@ public class MainActivity extends AppCompatActivity {
 //            i++;
 //            if(i>1000000) break;
 //        }
- 
 
         // 현재 날짜 일 수 / 365 (년도 총 일 수) * 100
         double testLoading = ((getRemainingDays() /  getYear())*100);
@@ -57,7 +56,6 @@ public class MainActivity extends AppCompatActivity {
 
         int value = (int) testLoading;
         testProgress.setProgress(value);
-
     }
 
     //뒤로가기 버튼 실행 어떻게 받아야 하는지
@@ -111,7 +109,6 @@ public class MainActivity extends AppCompatActivity {
             //textView.setText(String.valueOf(offset.getDayOfWeek() + " : " + offset.getDayOfMonth() + " : " + offset.getDayOfYear()));
             d1 = offset.getDayOfYear();
         }
-
         return d1;
     }
 }
