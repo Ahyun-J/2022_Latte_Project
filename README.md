@@ -37,7 +37,10 @@
 
 ### 위젯 
  참고할 것  
- https://developer.android.com/guide/topics/appwidgets?hl=ko
+ https://developer.android.com/guide/topics/appwidgets?hl=ko  
+ https://github.com/MackHartley/RoundedProgressBar  
+ https://android-arsenal.com/details/1/7835  
+ https://developer.android.com/about/versions/13/features?hl=ko
 <!--  android ui psd template
 http://materialdesignblog.com/top-10-free-material-design-psd-templates-and-ui-kits/
 https://sungbin.land/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C12%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-material-you-b0c4714fa6ed
