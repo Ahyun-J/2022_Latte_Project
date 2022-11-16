@@ -50,3 +50,19 @@ https://sungbin.land/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C12%EC%9D%98-%E
   위젯 디자인을 다르게 변경하는 방법  
   안드로이드 버젼에 다른 위젯을 설정하는 방법  
   
+## License
+```xml
+Copyright 2017 skydoves (Jaewoong Eum)
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
