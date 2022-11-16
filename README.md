@@ -1,13 +1,17 @@
 # Life Loading... ⏳
+<div>
+<img src=판넬(수정).png width=300 height=400>  
+</div>
+
 2022_Latte_Projects 
-> 안드로이드 스튜디오를 이용한 1년, 혹은 특정 날 까지의 지나가고 있는 기간을 퍼센트로 표시해주는 위젯 어플
+> 안드로이드 스튜디오를 이용한 어플로 현재 연도의 마지막 날, 또는 특정 날까지의 남은 기간을 퍼센트로 표시한다. 
 
 ## 프로젝트 팀 이름(팀 명)  
- Life Loading
+ 라떼☕
  <!-- The AND -->
 
 ## 개발 환경
- Android Studio
+ Android Studio(java)
 
 ## 계획
  ☑️ - 완료, ⏳ - 진행 중<!-- , ⚠ -  -->
