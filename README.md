@@ -14,7 +14,7 @@
 ## 개발 환경
  Android Studio(java)
 
-## 계획
+<!-- ## 계획
 |    | 계획 일정 |
 | -- |----------- |
 |📱| 어플 |
@@ -55,15 +55,15 @@
  https://developer.android.com/guide/topics/appwidgets?hl=ko  
  https://github.com/MackHartley/RoundedProgressBar  
  https://android-arsenal.com/details/1/7835  
- https://developer.android.com/about/versions/13/features?hl=ko
-<!--  android ui psd template
+ https://developer.android.com/about/versions/13/features?hl=ko 
+android ui psd template
 http://materialdesignblog.com/top-10-free-material-design-psd-templates-and-ui-kits/
 https://sungbin.land/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C12%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-material-you-b0c4714fa6ed
- -->
+
  
  ### 어려운 점
   위젯 디자인을 다르게 변경하는 방법  
-  안드로이드 버젼에 따른 위젯을 설정하는 방법  
+  안드로이드 버젼에 따른 위젯을 설정하는 방법   -->
   
 ## License
 ```xml
