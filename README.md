@@ -13,6 +13,9 @@
 
 ## 개발 환경
  Android Studio(java)
+ 
+## 프로젝트
+  https://github.com/Ahyun-J/Life_Loading
 
 <!-- ## 계획
 |    | 계획 일정 |
